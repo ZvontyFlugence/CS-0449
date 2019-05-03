@@ -1,0 +1,1 @@
+cmd_/afs/pitt.edu/home/z/a/zaf17/private/cs449/lab9/hello_dev/hello_dev.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /afs/pitt.edu/home/z/a/zaf17/private/cs449/lab9/hello_dev/hello_dev.ko /afs/pitt.edu/home/z/a/zaf17/private/cs449/lab9/hello_dev/hello_dev.o /afs/pitt.edu/home/z/a/zaf17/private/cs449/lab9/hello_dev/hello_dev.mod.o
